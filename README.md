@@ -1,9 +1,9 @@
 # Ex02 Natural-Sampling
 ### Aim 
-    Implement and analyze Natural sampling using Python colab.
+Implement and analyze Natural sampling using Python colab.
 ### Tools required 
-    Personal computer,
-    Google colab software.
+Personal computer,
+Google colab software.
 ### Program 
 ```python
 #Natural sampling
@@ -70,4 +70,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/85562086-1207-4488-851b-e90c7217c1d0)
 
 ### Results
-    Natural sampling signal will be displayed in separate plots. Thus implemented using python colab.
+Natural sampling signal will be displayed in separate plots. Thus implemented using python colab.
